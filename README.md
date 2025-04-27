@@ -1,6 +1,8 @@
 ### 启动
 1. npm install
 2. npm run dev
+
+*需要自己加上Mapbox GL token*
 ### 项目核心库和服务
 1. mapbox GL javascript库
 2. 使用天地图作为瓦片
